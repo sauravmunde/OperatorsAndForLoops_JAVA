@@ -1,3 +1,4 @@
+
 /*
  roblem statement
 Given a number N, find its square root. You need to find and print only the integral part of square root of N.
@@ -20,7 +21,6 @@ Sample Input 2 :
 Sample Output 2 :
 2
  */
-
 import java.util.Scanner;
 
 public class square_Root {
