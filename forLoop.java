@@ -32,10 +32,10 @@ public class forLoop {
                 if (j == 1)
 
                     break;
-
+ 
                 System.out.println(j + "");
             }
-
+   
         }
 
     }
