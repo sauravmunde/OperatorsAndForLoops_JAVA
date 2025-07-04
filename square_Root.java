@@ -28,6 +28,7 @@ public class square_Root {
         Scanner scanner = new Scanner(System.in);
         int N = scanner.nextInt();
         int squareRoot = (int) Math.sqrt(N);
+
         System.out.println(squareRoot);
 
     }
